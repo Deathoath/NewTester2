@@ -5,4 +5,9 @@ Alles goed Kevin?
 
 extra nutteloze tekst
 
+<<<<<<< HEAD
 Ah ik zie dat kevin een merge conflict heeft
+=======
+
+weg met die brol
+>>>>>>> bacce7afe1182410068d84fc24a786f5ff7a9064
